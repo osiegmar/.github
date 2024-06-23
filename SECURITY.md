@@ -1,10 +1,11 @@
 # Reporting Security Issues
 
-If you believe you have found a security vulnerability in this project, please report it to:
+**Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
+
+Preferably, use the **GitHub Security Advisory** feature. If you are not sure, please email the maintainer:
 
 oliver[@]siegmar.de
 
-**Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
 Please include as much of the information listed below as you can to help to better understand and resolve the issue:
 
